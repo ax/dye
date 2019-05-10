@@ -9,7 +9,7 @@ setup(
   author = 'ax',
   author_email = 'ax.tryin@gmail.com',
   url = 'https://github.com/ax-tryin/dye',
-  download_url = 'https://github.com/ax-tryin/dye/archive/0.1.tar.gz',
+  download_url = 'https://github.com/ax-tryin/dye/archive/0.2.tar.gz',
   keywords = ['ANSI', 'color', 'terminal', 'lightweight']
   setup_cfg=True
 )
