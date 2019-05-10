@@ -1,1 +1,1 @@
-from dye import *
+from .dye import *
